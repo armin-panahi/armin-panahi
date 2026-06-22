@@ -1,35 +1,49 @@
 <div align="center">
 
-<!-- HERO HEADER (STARTUP STYLE) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,100:0a192f&height=240&section=header&text=ARMIN%20PANAHI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<!-- HERO (STARTUP GRADE) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,100:0a192f&height=260&section=header&text=ARMIN%20PANAHI&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<!-- TYPEWRITER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=0A192F&center=true&vCenter=true&width=900&lines=Front-End+Architect;Startup+Builder+%26+Entrepreneur;I+design+and+build+scalable+web+products;Minimal+UI+%7C+High+Performance+%7C+Real+Impact" />
+<!-- TYPE SYSTEM -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=800&color=0A192F&center=true&vCenter=true&width=950&lines=Front-End+Architect+%26+Startup+Builder;I+turn+ideas+into+scalable+digital+products;Minimal+UI+%7C+High+Performance+%7C+Real+Impact;Building+in+public+and+shipping+fast" />
 
 <br/>
 
-<!-- STATUS BADGES -->
-<img src="https://img.shields.io/badge/STATUS-Building%20Products%20in%20Public-0a192f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FOCUS-Frontend%20Architecture-0a192f?style=for-the-badge" />
+<!-- STATUS LAYER -->
+<img src="https://img.shields.io/badge/ENGINEERING-Frontend%20Systems-0a192f?style=for-the-badge" />
 <img src="https://img.shields.io/badge/THINKING-Product%20First-0a192f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EXECUTION-Startup%20Mode-0a192f?style=for-the-badge" />
 
 </div>
 
 ---
 
-# 🧠 MANIFESTO
+# 🧠 IDENTITY
 
-> I’m not here to just write code.  
-> I’m here to **design systems, ship products, and build digital businesses.**
+> I don’t write code to build pages.  
+> I engineer **systems that become products.**
 
-- ⚡ Front-End Architect focused on scalable UI systems  
-- 🚀 Entrepreneur building products from idea → launch  
-- 🎯 Obsessed with performance, UX clarity, and minimal design  
-- 🧩 Strong belief: *“Great products feel invisible.”*
+- ⚡ Front-End Architect specializing in scalable UI systems  
+- 🚀 Startup builder focused on MVP → Product → Growth  
+- 🎯 Obsessed with performance, UX clarity, and simplicity  
+- 🧩 Believer in: *“Less UI, more meaning.”*
 
 ---
 
-# ⚙️ TECH ECOSYSTEM
+# 🧬 PRODUCT DNA
+
+<div align="center">
+
+| Layer | Focus | Output |
+|------|------|--------|
+| 🎨 UI Engineering | Design systems | Scalable interfaces |
+| ⚙️ Front-End Core | React / Next.js | High-performance apps |
+| 🚀 Product Layer | Startup thinking | Real-world products |
+
+</div>
+
+---
+
+# ⚙️ CORE STACK
 
 <div align="center">
 
@@ -39,31 +53,19 @@
 
 ---
 
-# 🚀 WHAT I BUILD
+# 🚀 BUILD SYSTEMS (NOT JUST PROJECTS)
 
-<table>
-<tr>
-<td width="50%">
+### ⚡ Front-End Architecture
+- Component-driven systems
+- Design system scalability
+- State management patterns
+- Performance-first rendering
 
-### 🎨 UI Engineering
-- Design systems from scratch  
-- Scalable component architecture  
-- Pixel-perfect responsive UI  
-- Performance-first frontend  
-
-</td>
-
-<td width="50%">
-
-### 🚀 Product Building
-- MVP design & execution  
-- Startup idea validation  
-- Rapid prototyping  
-- Shipping real-world apps  
-
-</td>
-</tr>
-</table>
+### 🚀 Startup Execution
+- Idea validation
+- MVP rapid development
+- Product iteration cycles
+- Real user feedback loops
 
 ---
 
@@ -78,7 +80,7 @@
 
 ---
 
-# 🔥 BUILD ACTIVITY
+# 🔥 EXECUTION FLOW
 
 <div align="center">
 
@@ -88,15 +90,15 @@
 
 ---
 
-# 🧩 FEATURED BUILDS (CASE STUDIES)
+# 🧩 FEATURED SYSTEMS (CASE STUDY STYLE)
 
 <div align="center">
 
-| Product | Type | Stack | Impact |
+| System | Type | Stack | Impact |
 |--------|------|------|--------|
 | ⚡ Portfolio OS | Personal Brand System | Next.js + Tailwind | Identity Layer |
-| 🧠 UI Component Engine | Design System | React + TS | Reusability |
-| 🚀 Startup MVPs | Product Prototypes | Next.js + Node | Idea Validation |
+| 🧠 UI Engine | Component System | React + TS | Reusability Layer |
+| 🚀 MVP Factory | Startup System | Next.js + Node | Idea → Product |
 
 </div>
 
@@ -106,25 +108,25 @@
 
 <div align="center">
 
-### “Simplicity is not minimal. It is clarity at scale.”
+## “Simplicity is not absence of complexity. It is clarity at scale.”
 
 </div>
 
 ---
 
-# 🌐 OPEN FOR
+# 🌐 OPEN TO
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Collaborations-0a192f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Startup%20Projects-0a192f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Freelance%20Work-0a192f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Startup%20Collaboration-0a192f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Product%20Opportunities-0a192f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Freelance%20Premium%20Work-0a192f?style=for-the-badge" />
 
 </div>
 
 ---
 
-# 📡 CONNECT
+# 📡 CONNECT SYSTEM
 
 <div align="center">
 
@@ -136,10 +138,14 @@
 
 ---
 
-# ⚡ SYSTEM FOOTER
+# ⚡ FINAL FOOTER (SYSTEM BRAND)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:020c1b&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:020c1b&height=140&section=footer" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/ARMIN%20PANAHI-Build%20%7C%20Ship%20%7C%20Scale-0a192f?style=for-the-badge" />
 
 </div>
