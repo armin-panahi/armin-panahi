@@ -1,61 +1,63 @@
 <div align="center">
 
-<!-- HERO SECTION -->
-<h1 style="color:#0a192f; font-size:42px;">
-ARMIN PANAHI
-</h1>
+<!-- HERO BACKGROUND STYLE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:020c1b&height=220&section=header&text=ARMIN%20PANAHI&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=0A192F&center=true&vCenter=true&width=800&lines=Front-End+Developer;Entrepreneur;I+build+modern+digital+products;Clean+UI+%7C+Scalable+Systems+%7C+Fast+Performance" />
+<!-- TYPE ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=0A192F&center=true&vCenter=true&width=850&lines=Front-End+Developer;Entrepreneur;I+build+modern+web+products;Clean+UI+%7C+Scalable+Systems+%7C+Performance+Driven" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-Building%20Products-0a192f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FOCUS-Frontend%20Engineering-0a192f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BRAND-Navy%20Theme-0a192f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-Active%20Builder-0a192f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FOCUS-Frontend%20Architecture-0a192f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BRAND-Navy%20Identity-0a192f?style=for-the-badge" />
 
 </div>
 
 ---
 
-# 🧭 About Me
+# 🧠 ABOUT THE BUILDER
 
-> I’m a Front-End Developer & Entrepreneur focused on building **fast, scalable, and modern web experiences**.
+> I don’t just build websites — I build **products that scale, perform, and feel alive.**
 
-- ⚡ Specializing in **React / Next.js ecosystems**
-- 🎯 Focus on **UI Architecture & Design Systems**
-- 🚀 Entrepreneur mindset: I build products, not just websites
-- 🎨 Passion for **clean UI & minimal UX**
+- ⚡ Front-End Engineer specialized in **React / Next.js ecosystems**
+- 🚀 Entrepreneur focused on turning ideas into real products
+- 🎯 Passionate about **UI systems, performance & UX psychology**
+- 🧩 Strong believer in **minimal design, maximum clarity**
 
 ---
 
-# ⚙️ Tech Stack
+# ⚙️ CORE STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nodejs,git,github,vite,figma" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nodejs,git,github,vite,figma,vercel" />
 
 </div>
 
 ---
 
-# 🚀 What I Do
+# 🚀 CAPABILITIES
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-### 🎨 Front-End Engineering
-- Modern UI development
-- Component architecture
-- Performance optimization
+### 🎨 Front-End Mastery
+- Component-based architecture  
+- Advanced UI engineering  
+- Responsive & adaptive systems  
+- Performance optimization  
 
 </td>
-<td>
+
+<td width="50%">
 
 ### 🚀 Product Thinking
-- Startup mindset
-- MVP building
-- Idea to product execution
+- MVP development  
+- Startup execution mindset  
+- Idea → Product pipeline  
+- UX-driven development  
 
 </td>
 </tr>
@@ -63,7 +65,7 @@ ARMIN PANAHI
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 LIVE GITHUB METRICS
 
 <div align="center">
 
@@ -75,7 +77,7 @@ ARMIN PANAHI
 
 ---
 
-# 🔥 Contribution Activity
+# 🔥 CONTRIBUTION FLOW
 
 <div align="center">
 
@@ -85,17 +87,33 @@ ARMIN PANAHI
 
 ---
 
-# 🧠 Philosophy
+# 🧩 FEATURED PROJECTS
 
 <div align="center">
 
-### “Minimal design. Maximum impact. Real products.”
+### 🚀 Project Showcase (Replace with your real repos)
+
+| Project | Description | Stack |
+|--------|-------------|------|
+| 🌐 Portfolio System | Personal brand website | Next.js, Tailwind |
+| ⚡ UI Kit System | Reusable components library | React, TS |
+| 🚀 Startup MVP | Idea validation platform | Next.js, Node |
 
 </div>
 
 ---
 
-# 📬 Contact
+# 🧭 PRODUCT PHILOSOPHY
+
+<div align="center">
+
+### “Build less. Build better. Ship faster.”
+
+</div>
+
+---
+
+# 🌐 CONNECT
 
 <div align="center">
 
@@ -107,10 +125,6 @@ ARMIN PANAHI
 
 ---
 
-# ⚡ Footer Brand Bar
+# ⚡ BRAND FOOTER
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/ARMIN%20PANAHI-Build%20%7C%20Design%20%7C%20Launch-0a192f?style=for-the-badge" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,100:0a192f&height=120&section=footer"/>
