@@ -1,33 +1,35 @@
 <div align="center">
 
-<!-- HERO BACKGROUND STYLE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:020c1b&height=220&section=header&text=ARMIN%20PANAHI&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<!-- HERO HEADER (STARTUP STYLE) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,100:0a192f&height=240&section=header&text=ARMIN%20PANAHI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<!-- TYPE ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=0A192F&center=true&vCenter=true&width=850&lines=Front-End+Developer;Entrepreneur;I+build+modern+web+products;Clean+UI+%7C+Scalable+Systems+%7C+Performance+Driven" />
+<!-- TYPEWRITER -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=0A192F&center=true&vCenter=true&width=900&lines=Front-End+Architect;Startup+Builder+%26+Entrepreneur;I+design+and+build+scalable+web+products;Minimal+UI+%7C+High+Performance+%7C+Real+Impact" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-Active%20Builder-0a192f?style=for-the-badge" />
+<!-- STATUS BADGES -->
+<img src="https://img.shields.io/badge/STATUS-Building%20Products%20in%20Public-0a192f?style=for-the-badge" />
 <img src="https://img.shields.io/badge/FOCUS-Frontend%20Architecture-0a192f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BRAND-Navy%20Identity-0a192f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/THINKING-Product%20First-0a192f?style=for-the-badge" />
 
 </div>
 
 ---
 
-# 🧠 ABOUT THE BUILDER
+# 🧠 MANIFESTO
 
-> I don’t just build websites — I build **products that scale, perform, and feel alive.**
+> I’m not here to just write code.  
+> I’m here to **design systems, ship products, and build digital businesses.**
 
-- ⚡ Front-End Engineer specialized in **React / Next.js ecosystems**
-- 🚀 Entrepreneur focused on turning ideas into real products
-- 🎯 Passionate about **UI systems, performance & UX psychology**
-- 🧩 Strong believer in **minimal design, maximum clarity**
+- ⚡ Front-End Architect focused on scalable UI systems  
+- 🚀 Entrepreneur building products from idea → launch  
+- 🎯 Obsessed with performance, UX clarity, and minimal design  
+- 🧩 Strong belief: *“Great products feel invisible.”*
 
 ---
 
-# ⚙️ CORE STACK
+# ⚙️ TECH ECOSYSTEM
 
 <div align="center">
 
@@ -37,27 +39,27 @@
 
 ---
 
-# 🚀 CAPABILITIES
+# 🚀 WHAT I BUILD
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎨 Front-End Mastery
-- Component-based architecture  
-- Advanced UI engineering  
-- Responsive & adaptive systems  
-- Performance optimization  
+### 🎨 UI Engineering
+- Design systems from scratch  
+- Scalable component architecture  
+- Pixel-perfect responsive UI  
+- Performance-first frontend  
 
 </td>
 
 <td width="50%">
 
-### 🚀 Product Thinking
-- MVP development  
-- Startup execution mindset  
-- Idea → Product pipeline  
-- UX-driven development  
+### 🚀 Product Building
+- MVP design & execution  
+- Startup idea validation  
+- Rapid prototyping  
+- Shipping real-world apps  
 
 </td>
 </tr>
@@ -65,19 +67,18 @@
 
 ---
 
-# 📊 LIVE GITHUB METRICS
+# 📊 ENGINEERING SIGNALS
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=armin-panahi&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armin-panahi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 CONTRIBUTION FLOW
+# 🔥 BUILD ACTIVITY
 
 <div align="center">
 
@@ -87,44 +88,58 @@
 
 ---
 
-# 🧩 FEATURED PROJECTS
+# 🧩 FEATURED BUILDS (CASE STUDIES)
 
 <div align="center">
 
-### 🚀 Project Showcase (Replace with your real repos)
-
-| Project | Description | Stack |
-|--------|-------------|------|
-| 🌐 Portfolio System | Personal brand website | Next.js, Tailwind |
-| ⚡ UI Kit System | Reusable components library | React, TS |
-| 🚀 Startup MVP | Idea validation platform | Next.js, Node |
+| Product | Type | Stack | Impact |
+|--------|------|------|--------|
+| ⚡ Portfolio OS | Personal Brand System | Next.js + Tailwind | Identity Layer |
+| 🧠 UI Component Engine | Design System | React + TS | Reusability |
+| 🚀 Startup MVPs | Product Prototypes | Next.js + Node | Idea Validation |
 
 </div>
 
 ---
 
-# 🧭 PRODUCT PHILOSOPHY
+# 🧭 DESIGN PHILOSOPHY
 
 <div align="center">
 
-### “Build less. Build better. Ship faster.”
+### “Simplicity is not minimal. It is clarity at scale.”
 
 </div>
 
 ---
 
-# 🌐 CONNECT
+# 🌐 OPEN FOR
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Collaborations-0a192f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Startup%20Projects-0a192f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Freelance%20Work-0a192f?style=for-the-badge" />
+
+</div>
+
+---
+
+# 📡 CONNECT
 
 <div align="center">
 
 <a href="https://github.com/armin-panahi">
-  <img src="https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-020c1b?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# ⚡ BRAND FOOTER
+# ⚡ SYSTEM FOOTER
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,100:0a192f&height=120&section=footer"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:020c1b&height=120&section=footer"/>
+
+</div>
