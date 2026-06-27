@@ -1,146 +1,163 @@
 <div align="center">
 
-# 👋 Hey, I'm ARMIN PANAHI.
+<!-- HERO LANDING (REAL PRODUCT STYLE) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:01060f,100:0a192f&height=300&section=header&text=ARMIN%20PANAHI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<img src="./armin-panahi-hero-banner.png" />
+<!-- CORE TAGLINE -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=650&color=0A192F&center=true&vCenter=true&width=1100&lines=Front-End+Architect+%7C+Startup+Founder+%7C+Product+Engineer;I+design+systems+that+scale+into+real+businesses;From+UI+to+MVP+to+market-ready+products;Minimal+design+%7C+Maximum+clarity+%7C+Real+execution" />
+
+<br/>
+
+<!-- STATUS BAR -->
+<img src="https://img.shields.io/badge/STATUS-Building%20Products%20in%20Public-0a192f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MODE-LEGEND%20SYSTEM-0a192f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FOCUS-SCALABLE%20PRODUCTS-0a192f?style=for-the-badge" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 🧠 LEGEND MANIFESTO
 
-js
-const developer = {
-    name: "YOUR_NAME",
-    location: "Earth 🌍",
-    role: "Full Stack Developer",
-    languages: ["JavaScript","TypeScript","Python","C++"],
-    learning: ["AI","Cloud","Cyber Security"],
-    hobbies: ["Coding","Gaming","Coffee☕"]
-}
-`
+> I don’t build websites.  
+> I build **systems that evolve into products, startups, and ecosystems.**
+
+Every decision I make in code follows 3 rules:
+- ⚡ Scalability over speed hacks  
+- 🎯 Clarity over complexity  
+- 🚀 Product value over feature count  
 
 ---
 
-# 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,vue,python,cpp,cs,java,go,docker,kubernetes,mongodb,mysql,postgres,redis,firebase,linux,git,github,vscode,figma,aws" />
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=7&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://twitter.com/YOUR_LINK">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://discord.com">
-<img src="https://skillicons.dev/icons?i=discord"/>
-</a>
-
-</p>
-
----
-
-# ⚡ Current Goals
-
-* 🚀 Build Awesome Projects
-* 🤖 Learn Artificial Intelligence
-* ☁️ Master Cloud Computing
-* 🌍 Contribute to Open Source
-
----
-
-# ☕ Support
-
-<p align="center">
-
-<a href="https://buymeacoffee.com/USERNAME">
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buymeacoffee"/>
-</a>
-
-</p>
-
----
+# 🧬 SYSTEM ARCHITECTURE
 
 <div align="center">
 
-### 👀 Visitors
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
-
-<br><br>
-
-### ❤️ Thanks for visiting!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00F260&height=120&section=footer"/>
+| Layer | Responsibility | Output |
+|------|----------------|--------|
+| 🎨 UI System | Design architecture | Scalable interfaces |
+| ⚙️ Engineering Core | Frontend logic | High-performance apps |
+| 🚀 Product Layer | Startup execution | MVP → Product |
+| 🧠 Strategy Layer | Founder mindset | Business systems |
 
 </div>
 
+---
+
+# ⚙️ PRODUCTION STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nodejs,git,github,vite,figma,vercel,postgres,prisma" />
+
+</div>
+
+---
+
+# 🚀 FLAGSHIP SYSTEMS (CASE STUDY STYLE)
+
+## ⚡ 1. Identity OS
+> Personal brand system as a product
+
+- Next.js architecture
+- Component-based UI system
+- SEO + performance optimized
+- Designed as a scalable digital identity
+
+---
+
+## 🧠 2. UI ENGINE SYSTEM
+> Reusable design system for rapid development
+
+- Atomic design principles
+- Component scalability
+- Theme-driven architecture
+- High reusability across projects
+
+---
+
+## 🚀 3. MVP FACTORY
+> Idea → Product pipeline system
+
+- Rapid prototyping workflow
+- Startup validation cycles
+- Real-world deployment strategy
+- Focus on speed + learning loops
+
+---
+
+# 📊 ENGINEERING SIGNALS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=armin-panahi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armin-panahi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 BUILD CONSISTENCY
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=armin-panahi&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧭 PRODUCT PHILOSOPHY
+
+<div align="center">
+
+## “A product is only real when it solves a real problem at scale.”
+
+</div>
+
+---
+
+# 🧠 THINKING MODEL (LEGEND CORE)
+
+- Systems > Pages  
+- Products > Features  
+- Users > Code  
+- Impact > Output  
+
+---
+
+# 🌐 MARKET POSITION
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AVAILABLE-Startup%20Collaboration-0a192f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OPEN-Freelance%20Premium%20Projects-0a192f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BUILDING-VC%20Ready%20Products-0a192f?style=for-the-badge" />
+
+</div>
+
+---
+
+# 📡 LEGEND CONTACT LAYER
+
+<div align="center">
+
+<a href="https://github.com/armin-panahi">
+  <img src="https://img.shields.io/badge/GitHub-01060f?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ⚡ FINAL SYSTEM FOOTER
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:01060f&height=160&section=footer" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/ARMIN%20PANAHI-BUILDING%20LEGENDARY%20SYSTEMS-0a192f?style=for-the-badge" />
+
+</div>
