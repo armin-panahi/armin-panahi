@@ -3,7 +3,7 @@
 
 # 👋 Hey, I'm YOUR_NAME
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;Open+Source+Contributor;AI+Enthusiast;Always+Learning+New+Things..." />
+<img src="./armin-panahi-hero-banner.png" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=200&section=header&text=Welcome!&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
