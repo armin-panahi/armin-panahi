@@ -1,11 +1,8 @@
-`md
 <div align="center">
 
-# 👋 Hey, I'm YOUR_NAME
+# 👋 Hey, I'm ARMIN PANAHI.
 
 <img src="./armin-panahi-hero-banner.png" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=200&section=header&text=Welcome!&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
