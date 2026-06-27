@@ -1,4 +1,4 @@
-````md
+`md
 <div align="center">
 
 # 👋 Hey, I'm YOUR_NAME
@@ -13,7 +13,7 @@
 
 # 🚀 About Me
 
-```js
+js
 const developer = {
     name: "YOUR_NAME",
     location: "Earth 🌍",
@@ -22,7 +22,7 @@ const developer = {
     learning: ["AI","Cloud","Cyber Security"],
     hobbies: ["Coding","Gaming","Coffee☕"]
 }
-````
+`
 
 ---
 
@@ -146,4 +146,4 @@ const developer = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00F260&height=120&section=footer"/>
 
 </div>
-```
+
