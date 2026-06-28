@@ -8,6 +8,27 @@
 
 <br/>
 
+<!--
+```json
+{
+  "Name": "Dulanga Dasanayake",
+  "Education": "Higher National Diploma in IT",
+  "Institution": "Sri Lanka Institute of Advanced Technological Education",
+  "Current Focus": [
+    "Mastering ES6+, React & Laravel",
+    "Advancing Front-End Development Skills with modern frameworks"
+  ]
+}
+```
+-->
+
+<div align="center">
+<img src="assets/daftpunktocat-guy.gif" width="200">
+<br><img src="https://komarev.com/ghpvc/?username=iamdulanga&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" />
+
+<br/>
+
 <!-- STATUS BAR -->
 <img src="https://img.shields.io/badge/STATUS-Building%20Products%20in%20Public-0a192f?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MODE-LEGEND%20SYSTEM-0a192f?style=for-the-badge" />
