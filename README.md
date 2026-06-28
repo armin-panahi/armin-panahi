@@ -1,184 +1,93 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Armin Panahi</h1>
+<h3 align="center">Frontend Developer | Python Developer | Passionate about building modern web applications</h3>
 
-<!-- HERO LANDING (REAL PRODUCT STYLE) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:01060f,100:0a192f&height=300&section=header&text=ARMIN%20PANAHI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-
-<!-- CORE TAGLINE -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=650&color=0A192F&center=true&vCenter=true&width=1100&lines=Front-End+Architect+%7C+Startup+Founder+%7C+Product+Engineer;I+design+systems+that+scale+into+real+businesses;From+UI+to+MVP+to+market-ready+products;Minimal+design+%7C+Maximum+clarity+%7C+Real+execution" />
-
-<br/>
-
-<!--
-```json
-{
-  "Name": "Dulanga Dasanayake",
-  "Education": "Higher National Diploma in IT",
-  "Institution": "Sri Lanka Institute of Advanced Technological Education",
-  "Current Focus": [
-    "Mastering ES6+, React & Laravel",
-    "Advancing Front-End Development Skills with modern frameworks"
-  ]
-}
-```
--->
-
-<div align="center">
-<img src="assets/daftpunktocat-guy.gif" width="200">
-<br><img src="https://komarev.com/ghpvc/?username=iamdulanga&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" />
-
-<br/>
-
-<!-- STATUS BAR -->
-<img src="https://img.shields.io/badge/STATUS-Building%20Products%20in%20Public-0a192f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MODE-LEGEND%20SYSTEM-0a192f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FOCUS-SCALABLE%20PRODUCTS-0a192f?style=for-the-badge" />
-
-</div>
+<p align="center">
+I enjoy creating responsive, user-friendly, and high-performance web applications.
+Currently, I'm improving my Frontend development skills while expanding my knowledge of Backend development with Python.
+</p>
 
 ---
 
-# 🧠 LEGEND MANIFESTO
+## 🚀 About Me
 
-> I don’t build websites.  
-> I build **systems that evolve into products, startups, and ecosystems.**
-
-Every decision I make in code follows 3 rules:
-- ⚡ Scalability over speed hacks  
-- 🎯 Clarity over complexity  
-- 🚀 Product value over feature count  
+- 💻 Frontend Developer with a passion for clean UI and great user experience.
+- 🌱 Currently learning advanced React ecosystem and backend development.
+- 🐍 Experienced with Python for backend development and automation.
+- 🤝 Interested in collaborating on open-source and real-world projects.
+- 📫 Reach me: **your-email@example.com**
 
 ---
 
-# 🧬 SYSTEM ARCHITECTURE
+## 🛠 Tech Stack
 
-<div align="center">
+### Frontend
 
-| Layer | Responsibility | Output |
-|------|----------------|--------|
-| 🎨 UI System | Design architecture | Scalable interfaces |
-| ⚙️ Engineering Core | Frontend logic | High-performance apps |
-| 🚀 Product Layer | Startup execution | MVP → Product |
-| 🧠 Strategy Layer | Founder mindset | Business systems |
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite" />
+</p>
 
-</div>
+### Backend
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi" />
+</p>
 
-# ⚙️ PRODUCTION STACK
+### Database
 
-<div align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nodejs,git,github,vite,figma,vercel,postgres,prisma" />
+### Tools
 
-</div>
-
----
-
-# 🚀 FLAGSHIP SYSTEMS (CASE STUDY STYLE)
-
-## ⚡ 1. Identity OS
-> Personal brand system as a product
-
-- Next.js architecture
-- Component-based UI system
-- SEO + performance optimized
-- Designed as a scalable digital identity
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
 
 ---
 
-## 🧠 2. UI ENGINE SYSTEM
-> Reusable design system for rapid development
+## 📌 Featured Projects
 
-- Atomic design principles
-- Component scalability
-- Theme-driven architecture
-- High reusability across projects
+### 🛒 E-Commerce Website
 
----
+Modern shopping website with responsive UI and API integration.
 
-## 🚀 3. MVP FACTORY
-> Idea → Product pipeline system
+### 📊 Admin Dashboard
 
-- Rapid prototyping workflow
-- Startup validation cycles
-- Real-world deployment strategy
-- Focus on speed + learning loops
+Interactive dashboard with charts and responsive layout.
 
----
+### ✅ Task Management App
 
-# 📊 ENGINEERING SIGNALS
+Task manager with authentication and REST API.
 
-<div align="center">
+### 🐍 Python API
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=armin-panahi&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armin-panahi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+RESTful API built with Python for learning backend development.
 
 ---
 
-# 🔥 BUILD CONSISTENCY
+## 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=armin-panahi&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=armin-panahi&show_icons=true&theme=transparent"/>
 
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armin-panahi&layout=compact&theme=transparent"/>
 
----
-
-# 🧭 PRODUCT PHILOSOPHY
-
-<div align="center">
-
-## “A product is only real when it solves a real problem at scale.”
-
-</div>
+</p>
 
 ---
 
-# 🧠 THINKING MODEL (LEGEND CORE)
+## 🌍 Connect with Me
 
-- Systems > Pages  
-- Products > Features  
-- Users > Code  
-- Impact > Output  
-
----
-
-# 🌐 MARKET POSITION
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AVAILABLE-Startup%20Collaboration-0a192f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OPEN-Freelance%20Premium%20Projects-0a192f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BUILDING-VC%20Ready%20Products-0a192f?style=for-the-badge" />
-
-</div>
+<p>
+<a href="https://linkedin.com/in/YOUR-LINK">LinkedIn</a> •
+<a href="https://github.com/armin-panahi">GitHub</a> •
+<a href="mailto:your-email@example.com">Email</a>
+</p>
 
 ---
 
-# 📡 LEGEND CONTACT LAYER
-
-<div align="center">
-
-<a href="https://github.com/armin-panahi">
-  <img src="https://img.shields.io/badge/GitHub-01060f?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# ⚡ FINAL SYSTEM FOOTER
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:01060f&height=160&section=footer" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/ARMIN%20PANAHI-BUILDING%20LEGENDARY%20SYSTEMS-0a192f?style=for-the-badge" />
-
-</div>
+<p align="center">
+Thanks for visiting my profile ⭐
+</p>
