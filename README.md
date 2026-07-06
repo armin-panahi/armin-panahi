@@ -33,7 +33,7 @@
 <h2 style="color:F7D774; font-size:28px; margin-top:20px;">Backend</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,flask,fastapi,nodejs" />
+<img src="https://skillicons.dev/icons?i=php,python,flask,fastapi,nodejs" />
 </p>
 
 <h2 style="color:F7D774; font-size:28px; margin-top:20px;">Database</h2>
