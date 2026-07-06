@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=F7D774&center=true&vCenter=true&random=false&width=700&lines=Hello+,+Welcome+to+my+page;I'm+Armin+Panahi" />
-
---- 
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=900&color=F7D774&center=true&vCenter=true&width=800&lines=Hello+%F0%9F%91%8B;Welcome+to+my+page+%E2%9C%A8;I'm+Armin+Panahi;Frontend+Developer;React+%7C+Python+%7C+UI+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=F7D774&center=true&vCenter=true&random=false&width=700&lines=I'm+Armin+Panahi" />
 
 ---
 
