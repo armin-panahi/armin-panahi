@@ -24,10 +24,16 @@
 
 # ⚡ Tech Stack
 
+<h2 style="color:F7D774; font-size:28px; margin-top:20px;">Languages</h2>
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,c++,python,js,php" />
+</p>
+
 <h2 style="color:F7D774; font-size:28px; margin-top:20px;">Frontend</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,next" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,tailwind,bootstrap,vite,next" />
 </p>
 
 <h2 style="color:F7D774; font-size:28px; margin-top:20px;">Backend</h2>
@@ -105,8 +111,6 @@ RESTful API built using Python.
 <p align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=armin-panahi&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armin-panahi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
