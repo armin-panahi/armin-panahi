@@ -27,7 +27,7 @@
 <h2 style="color:F7D774; font-size:28px; margin-top:20px;">Languages</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cplusplus,python,js,php" />
+<img src="https://skillicons.dev/icons?i=c,python,js,php" />
 </p>
 
 <h2 style="color:F7D774; font-size:28px; margin-top:20px;">Frontend</h2>
@@ -51,7 +51,7 @@
 <h2 style="color:F7D774; font-size:28px; margin-top:20px;">Tools</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma,postman,npm,linux,docker" />
+<img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,pycharm,figma,postman,npm,linux,docker" />
 </p>
 
 </div>
