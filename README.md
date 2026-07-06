@@ -39,7 +39,7 @@
 <h2 style="color:F7D774; font-size:28px; margin-top:20px;">Database</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,nosql,mongodb,postgresql" />
+<img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,postgresql" />
 </p>
 
 <h2 style="color:F7D774; font-size:28px; margin-top:20px;">Tools</h2>
