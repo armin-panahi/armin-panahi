@@ -156,6 +156,14 @@ RESTful API built using Python.
 
 </div>
 
+<div align="center">
+
+<h2>📈 Activity Graph</h2>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=armin-panahi&custom_title=Armin's%20Contribution%20Graph&bg_color=0D1117&color=F7D774&line=F7D774&point=FFFFFF&area=true&area_color=C8A82D&title_color=F7D774&hide_border=true"/>
+
+</div>
+
 ---
 
 <div align="center">
