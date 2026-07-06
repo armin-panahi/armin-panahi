@@ -23,40 +23,35 @@
 🎯 My goal is to become a Full Stack Engineer capable of building complete production-ready applications.
 
 ---
+<div align="center">
 
 # ⚡ Tech Stack
 
 ### Frontend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite" />
-
 </p>
 
 ### Backend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=python,flask,fastapi,nodejs" />
-
 </p>
 
 ### Database
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
 </p>
 
 ### Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
-
 </p>
+
+</div>
 
 ---
 
