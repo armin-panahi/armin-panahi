@@ -27,13 +27,13 @@
 <h2 style="color:F7D774; font-size:28px; margin-top:20px;">Languages</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,c++,python,js,php" />
+<img src="https://skillicons.dev/icons?i=c,cplusplus,python,js,php" />
 </p>
 
 <h2 style="color:F7D774; font-size:28px; margin-top:20px;">Frontend</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,tailwind,bootstrap,vite,next" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,next" />
 </p>
 
 <h2 style="color:F7D774; font-size:28px; margin-top:20px;">Backend</h2>
@@ -157,14 +157,6 @@ RESTful API built using Python.
 # 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=armin-panahi&bg_color=0d1117&color=F7D774&line=F7D774&point=F7D774&area=true&hide_border=true&radius=16&title_color=F7D774&area_color=E8C547"/>
-
-</div>
-
-<div align="center">
-
-<h2>📈 Activity Graph</h2>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=armin-panahi&custom_title=Armin's%20Contribution%20Graph&bg_color=0D1117&color=F7D774&line=F7D774&point=FFFFFF&area=true&area_color=C8A82D&title_color=F7D774&hide_border=true"/>
 
 </div>
 
