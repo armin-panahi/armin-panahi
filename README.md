@@ -8,7 +8,11 @@
 
 ---
 
-# 💫 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=800&color=F7D774&center=true&vCenter=true&width=500&lines=✨+About+Me+✨;Frontend+Developer;React+%7C+Python+%7C+UI+Enthusiast" />
+</p>
+
+#  About Me
 
 💻 Frontend Developer passionate about creating beautiful, responsive and scalable web applications.
 
