@@ -120,7 +120,7 @@ RESTful API built using Python.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=armin-panahi&theme=tokyonight&hide_border=true&color=F7D774"/>
+<img src="https://streak-stats.demolab.com?user=armin-panahi&theme=tokyonight&hide_border=true"/>
 
 </p>
 
