@@ -8,10 +8,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=800&color=F7D774&center=true&vCenter=true&width=500&lines=✨+About+Me+✨;Frontend+Developer;React+%7C+Python+%7C+UI+Enthusiast" />
-</p>
-
 #  About Me
 
 💻 Frontend Developer passionate about creating beautiful, responsive and scalable web applications.
@@ -28,25 +24,25 @@
 
 # ⚡ Tech Stack
 
-<h2 style="color:#D4AF37; font-size:28px; margin-top:20px;">Frontend</h2>
+<h2 style="color:F7D774; font-size:28px; margin-top:20px;">Frontend</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,next" />
 </p>
 
-<h2 style="color:#D4AF37; font-size:28px; margin-top:20px;">Backend</h2>
+<h2 style="color:F7D774; font-size:28px; margin-top:20px;">Backend</h2>
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,flask,fastapi,nodejs" />
 </p>
 
-<h2 style="color:#D4AF37; font-size:28px; margin-top:20px;">Database</h2>
+<h2 style="color:F7D774; font-size:28px; margin-top:20px;">Database</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,nosql,mongodb,postgresql" />
 </p>
 
-<h2 style="color:#D4AF37; font-size:28px; margin-top:20px;">Tools</h2>
+<h2 style="color:F7D774; font-size:28px; margin-top:20px;">Tools</h2>
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
