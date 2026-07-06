@@ -124,11 +124,75 @@ RESTful API built using Python.
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=armin-panahi&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+# 🏆 GitHub Highlights
 
-</p>
+<table>
+<tr>
+<td align="center" width="180">
+
+### 🥇
+**Clean Code**
+
+</td>
+
+<td align="center" width="180">
+
+### 🚀
+**Fast Learner**
+
+</td>
+
+<td align="center" width="180">
+
+### ⚡
+**Problem Solver**
+
+</td>
+
+<td align="center" width="180">
+
+### 💡
+**Creative Developer**
+
+</td>
+
+</tr>
+
+<tr>
+<td align="center">
+
+### 🔥
+**Open Source**
+
+</td>
+
+<td align="center">
+
+### 🎯
+**Frontend Expert**
+
+</td>
+
+<td align="center">
+
+### 🛠️
+**Backend Builder**
+
+</td>
+
+<td align="center">
+
+### ⭐
+**Continuous Growth**
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
