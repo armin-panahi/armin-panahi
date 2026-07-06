@@ -122,75 +122,27 @@ RESTful API built using Python.
 
 ---
 
-# 🏆 GitHub Trophies
-
 <div align="center">
 
-# 🏆 GitHub Highlights
+# 🏆 Achievements
 
-<table>
-<tr>
-<td align="center" width="180">
+<p>
+  <img src="https://img.shields.io/badge/⚡_Fast_Learner-F7D774?style=for-the-badge&labelColor=111111&color=F7D774" />
+  <img src="https://img.shields.io/badge/💡_Creative_Developer-F7D774?style=for-the-badge&labelColor=111111&color=F7D774" />
+  <img src="https://img.shields.io/badge/🚀_Always_Building-F7D774?style=for-the-badge&labelColor=111111&color=F7D774" />
+</p>
 
-### 🥇
-**Clean Code**
+<p>
+  <img src="https://img.shields.io/badge/🎯_Problem_Solver-F7D774?style=for-the-badge&labelColor=111111&color=F7D774" />
+  <img src="https://img.shields.io/badge/🛠️_Full_Stack_Developer-F7D774?style=for-the-badge&labelColor=111111&color=F7D774" />
+  <img src="https://img.shields.io/badge/🔥_Open_to_Collaboration-F7D774?style=for-the-badge&labelColor=111111&color=F7D774" />
+</p>
 
-</td>
-
-<td align="center" width="180">
-
-### 🚀
-**Fast Learner**
-
-</td>
-
-<td align="center" width="180">
-
-### ⚡
-**Problem Solver**
-
-</td>
-
-<td align="center" width="180">
-
-### 💡
-**Creative Developer**
-
-</td>
-
-</tr>
-
-<tr>
-<td align="center">
-
-### 🔥
-**Open Source**
-
-</td>
-
-<td align="center">
-
-### 🎯
-**Frontend Expert**
-
-</td>
-
-<td align="center">
-
-### 🛠️
-**Backend Builder**
-
-</td>
-
-<td align="center">
-
-### ⭐
-**Continuous Growth**
-
-</td>
-
-</tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/📚_Continuous_Learning-F7D774?style=for-the-badge&labelColor=111111&color=F7D774" />
+  <img src="https://img.shields.io/badge/🌟_Clean_Code-F7D774?style=for-the-badge&labelColor=111111&color=F7D774" />
+  <img src="https://img.shields.io/badge/🤝_Team_Player-F7D774?style=for-the-badge&labelColor=111111&color=F7D774" />
+</p>
 
 </div>
 
