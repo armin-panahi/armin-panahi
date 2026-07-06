@@ -22,21 +22,21 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=40&text=TECH%20STACK&fontSize=42&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&text=TECH%20STACK&fontSize=42&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=LANGUAGES&fontSize=20&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Languages&fontSize=20&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,python,js,php" />
 </p>
 
-<h2 style="color:F7D774; font-size:28px; margin-top:20px;">Frontend</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Frontend&fontSize=20&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,next" />
 </p>
 
-<h2 style="color:F7D774; font-size:28px; margin-top:20px;">Backend</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=backend&fontSize=20&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
 <img src="https://skillicons.dev/icons?i=php,python,flask,fastapi,nodejs" />
