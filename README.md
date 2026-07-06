@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=120&text=TECH%20STACK&fontSize=42&fontColor=F7D774&stroke=F7D774&animation=twinkling&color=0:000000,100:000000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=TECH%20STACK&fontSize=42&fontColor=F7D774&animation=twinkling&color=0:FFFFFF,100:FFFFFF"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=TECH%20STACK&fontSize=42&fontColor=F7D774&animation=twinkling&color=0:000000,100:000000"/>
 
