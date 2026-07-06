@@ -148,13 +148,13 @@ RESTful API built using Python.
 
 ---
 
-# 📊 Contribution Graph
+<div align="center">
 
-<p align="center">
+# 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=armin-panahi&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=F7D774&line=F7D774&point=F7D774&area=true&hide_border=true&radius=16&title_color=F7D774&area_color=E8C547"/>
 
-</p>
+</div>
 
 ---
 
