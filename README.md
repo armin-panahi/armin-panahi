@@ -45,7 +45,7 @@
 <h2 style="color:F7D774; font-size:28px; margin-top:20px;">Tools</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma,postman,npm,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma,postman,npm,linux,docker" />
 </p>
 
 </div>
