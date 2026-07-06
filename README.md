@@ -120,7 +120,7 @@ RESTful API built using Python.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=armin-panahi&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=armin-panahi&theme=tokyonight&hide_border=true&color=F7D774"/>
 
 </p>
 
@@ -202,11 +202,11 @@ RESTful API built using Python.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:amirhosseinpanahi.business@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://linkedin.com/in/armin-panahi">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
