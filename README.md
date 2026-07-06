@@ -24,7 +24,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=40&text=TECH%20STACK&fontSize=42&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
-<h2 style="color:F7D774; font-size:28px; margin-top:20px;">Languages</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=10&text=LANGUAGES%20&fontSize=20&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,python,js,php" />
