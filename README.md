@@ -22,33 +22,33 @@
 
 <div align="left">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=50&text=TECH%20STACK&fontSize=30&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
+<img align="left" src="https://capsule-render.vercel.app/api?type=waving&height=50&text=TECH%20STACK&fontSize=30&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Languages&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
+<img align="left" src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Languages&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,python,js,php" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Front-End&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
+<img align="left" src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Front-End&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,next" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Back-End&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
+<img align="left" src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Back-End&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
 <img src="https://skillicons.dev/icons?i=php,python,flask,fastapi,nodejs" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=DataBse&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
+<img align="left" src="https://capsule-render.vercel.app/api?type=waving&height=20&text=DataBse&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,postgresql,sqlite" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Tools&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
+<img align="left" src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Tools&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
 <img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,pycharm,figma,postman,npm,linux,docker" />
