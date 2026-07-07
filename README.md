@@ -30,13 +30,13 @@
 <img src="https://skillicons.dev/icons?i=c,python,js,php" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Frontend&fontSize=20&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Front-End&fontSize=20&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,next" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=backend&fontSize=20&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Back-End&fontSize=20&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
 <img src="https://skillicons.dev/icons?i=php,python,flask,fastapi,nodejs" />
