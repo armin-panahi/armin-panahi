@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Hello, Welcome to my profile : I'm ARMIN PANAHI.&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Hello,Welcome20%to20%my20%&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=F8F8FF&center=true&vCenter=true&random=false&width=700&lines=Frontend+Developer;React+Developer;Python+Developer;Building+Modern+Web+Applications;Always+Learning+Something+New" />
 
