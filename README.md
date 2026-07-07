@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Hello,20%Welcome%20to%20my%20profile20%:20%ARMIN20%PANAHI20%.&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Hello,%20Welcome%20to%20my%20profile%20:%20ARMIN%20PANAHI%20.&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=F8F8FF&center=true&vCenter=true&random=false&width=700&lines=Frontend+Developer;React+Developer;Python+Developer;Building+Modern+Web+Applications;Always+Learning+Something+New" />
 
