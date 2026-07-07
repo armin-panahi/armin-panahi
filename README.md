@@ -42,13 +42,13 @@
 <img src="https://skillicons.dev/icons?i=php,python,flask,fastapi,nodejs" />
 </p>
 
-<h2 style="color:F7D774; font-size:28px; margin-top:20px;">Database</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=DataBse&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,postgresql,sqlite" />
 </p>
 
-<h2 style="color:F7D774; font-size:28px; margin-top:20px;">Tools</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Tools&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
 <img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,pycharm,figma,postman,npm,linux,docker" />
