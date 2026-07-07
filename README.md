@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=40&duration=3000&pause=1000&color=F7D774&center=true&vCenter=true&random=false&width=700&lines=Hello+,+Welcome+to+my+profile+:;I'm+ARMIN+PANAHI+." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&random=false&width=700&lines=Frontend+Developer;React+Developer;Python+Developer;Building+Modern+Web+Applications;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=F8F8FF&center=true&vCenter=true&random=false&width=700&lines=Frontend+Developer;React+Developer;Python+Developer;Building+Modern+Web+Applications;Always+Learning+Something+New" />
 
 </div>
 
@@ -24,19 +24,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=70&text=TECH%20STACK&fontSize=42&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Languages&fontSize=20&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Languages&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,python,js,php" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Front-End&fontSize=20&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Front-End&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,next" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Back-End&fontSize=20&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Back-End&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
 <img src="https://skillicons.dev/icons?i=php,python,flask,fastapi,nodejs" />
