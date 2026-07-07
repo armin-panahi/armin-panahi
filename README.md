@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=50&text=Hello,%20I'm%20ARMIN%20PANAHI%20.&fontSize=40&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=50&text=Hello,%20I'm%20ARMIN%20PANAHI&fontSize=40&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=F8F8FF&center=true&vCenter=true&random=false&width=700&lines=Computer+Engineer;Frontend+Developer;React+Developer;Python+Developer;Backend+Developer;Always+Learning+Something+New+..." />
 
@@ -107,13 +107,28 @@ RESTful API built using Python.
 
 ---
 
-# 📈 GitHub Analytics
+<img src="https://capsule-render.vercel.app/api?type=waving&height=45&text=GITHUB%20ANALYTICS&fontSize=30&fontColor=F7D774&animation=fadeIn&color=0:0D1117,100:0D1117"/>
 
-<p align="center">
+<br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=armin-panahi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-</p>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=armin-panahi&show_icons=true&theme=transparent&hide_border=true&title_color=F7D774&icon_color=F7D774&text_color=F8F8FF&ring_color=F7D774"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=armin-panahi&layout=compact&theme=transparent&hide_border=true&title_color=F7D774&text_color=F8F8FF"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="850"
+src="https://streak-stats.demolab.com?user=armin-panahi&theme=transparent&hide_border=true&ring=F7D774&fire=F7D774&currStreakLabel=F7D774&sideNums=F8F8FF&currStreakNum=F7D774&dates=8B949E&sideLabels=F8F8FF"/>
+
+</div>
 
 ---
 
