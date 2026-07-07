@@ -20,7 +20,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=50&text=TECH%20STACK&fontSize=30&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
