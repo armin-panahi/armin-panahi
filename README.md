@@ -1,9 +1,11 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=50&text=Hello,%20I'm%20ARMIN%20PANAHI%20.&fontSize=40&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&duration=3000&pause=1500&color=F7D774&center=true&vCenter=true&width=850&height=80&lines=Hello%2C+I'm+Armin+Panahi+%F0%9F%91%8B;Full+Stack+Developer;Python+%7C+React+%7C+FastAPI" />
-
+<img
+src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+width="42"
+style="vertical-align: middle;"
+/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=F8F8FF&center=true&vCenter=true&random=false&width=700&lines=Computer+Engineer;Frontend+Developer;React+Developer;Python+Developer;Backend+Developer;Always+Learning+Something+New+..." />
 
