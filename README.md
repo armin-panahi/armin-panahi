@@ -8,14 +8,6 @@
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=ARMIN%20PANAHI&fontSize=55&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
-
-</div>
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=50&text=About%20Me&fontSize=40&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 
@@ -30,6 +22,8 @@
 ---
 
 <div align="left>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&text=TECH%20STACK&fontSize=42&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=50&text=TECH%20STACK&fontSize=30&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
