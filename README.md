@@ -152,6 +152,8 @@ src="https://streak-stats.demolab.com?user=armin-panahi&theme=transparent&hide_b
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=3500&pause=1000&color=F7D774&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;See+you+again+%F0%9F%91%8B;Happy+Coding+%F0%9F%9A%80"/>
 
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=armin-panahi&style=for-the-badge&color=F7D774&label=PROFILE+VIEWS"/>
 
 </div>
