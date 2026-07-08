@@ -185,23 +185,23 @@ src="https://streak-stats.demolab.com?user=armin-panahi&theme=transparent&hide_b
 <img src="https://img.shields.io/badge/GitHub-F7D774?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/armin-panahi">
 <img src="https://img.shields.io/badge/LinkedIn-F7D774?style=for-the-badge&logo=linkedin&logoColor=000000"/>
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
+<a href="https://instagram.com/arminpanahi.ir">
 <img src="https://img.shields.io/badge/Instagram-F7D774?style=for-the-badge&logo=instagram&logoColor=000000"/>
 </a>
 
-<a href="https://t.me/YOUR_TELEGRAM">
+<a href="https://t.me/arminpanahi.ir">
 <img src="https://img.shields.io/badge/Telegram-F7D774?style=for-the-badge&logo=telegram&logoColor=000000"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:amirhosseinpanahi.business@gmail.com">
 <img src="https://img.shields.io/badge/Email-F7D774?style=for-the-badge&logo=gmail&logoColor=000000"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO.com">
+<a href="https://arminpanahi.ir">
 <img src="https://img.shields.io/badge/Portfolio-F7D774?style=for-the-badge&logo=vercel&logoColor=000000"/>
 </a>
 
