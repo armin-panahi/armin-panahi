@@ -73,40 +73,6 @@
 
 ---
 
-# 📌 Featured Projects
-
-## 🛒 E-Commerce Website
-
-Modern shopping platform
-
-✔ Responsive Design
-
-✔ API Integration
-
-✔ Shopping Cart
-
-✔ Authentication
-
----
-
-## 📊 Admin Dashboard
-
-Interactive dashboard with charts and analytics.
-
----
-
-## ✅ Task Management App
-
-Productivity application with authentication and CRUD operations.
-
----
-
-## 🐍 Python API
-
-RESTful API built using Python.
-
----
-
 <div align="center">
 
 <img width="850"
