@@ -109,18 +109,6 @@ RESTful API built using Python.
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=armin-panahi&show_icons=true&theme=transparent&hide_border=true&title_color=F7D774&icon_color=F7D774&text_color=F8F8FF&ring_color=F7D774"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=armin-panahi&layout=compact&theme=transparent&hide_border=true&title_color=F7D774&text_color=F8F8FF"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img width="850"
 src="https://streak-stats.demolab.com?user=armin-panahi&theme=transparent&hide_border=true&ring=F7D774&fire=F7D774&currStreakLabel=F7D774&sideNums=F8F8FF&currStreakNum=F7D774&dates=8B949E&sideLabels=F8F8FF"/>
 
