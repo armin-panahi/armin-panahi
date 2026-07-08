@@ -59,20 +59,6 @@
 
 ---
 
-# 🚀 What I'm Working On
-
-🌱 Advanced React
-
-⚡ REST APIs
-
-🐍 Python Backend
-
-📱 Responsive UI
-
-🎨 Clean UI/UX
-
----
-
 <div align="center">
 
 <img width="850"
@@ -122,20 +108,6 @@ src="https://streak-stats.demolab.com?user=armin-panahi&theme=transparent&hide_b
 <img src="https://raw.githubusercontent.com/armin-panahi/armin-panahi/output/github-snake-dark.svg" width="100%"/>
 
 </div>
-
----
-
-# 🎯 2026 Goals
-
-✅ Build production-grade React applications
-
-✅ Contribute to Open Source
-
-✅ Master Backend with Python
-
-✅ Learn Docker
-
-✅ Learn CI/CD
 
 ---
 
