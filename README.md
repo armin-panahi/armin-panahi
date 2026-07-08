@@ -34,7 +34,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Front-End&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,next,vue,jquary,angular" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,next,vue,angular" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Back-End&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
@@ -46,7 +46,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Database&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,postgresql,sqlite,rest,graphql" />
+<img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,postgresql,sqlite,graphql" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Tools&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
