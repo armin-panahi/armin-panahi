@@ -141,7 +141,6 @@ src="https://streak-stats.demolab.com?user=armin-panahi&theme=transparent&hide_b
 <img src="https://img.shields.io/badge/Portfolio-F7D774?style=for-the-badge&logo=vercel&logoColor=000000"/>
 </a>
 
-<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=3500&pause=1000&color=F7D774&center=true&vCenter=true&width=650&lines=Let's+build+something+amazing+together+%F0%9F%9A%80;Open+for+Collaboration+%E2%9C%A8;Always+Happy+to+Connect+%F0%9F%A4%9D"/>
 
@@ -151,9 +150,7 @@ src="https://streak-stats.demolab.com?user=armin-panahi&theme=transparent&hide_b
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=F8F8FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;See+you+again+%F0%9F%91%8B;Happy+Coding+%F0%9F%9A%80"/>
-
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=3500&pause=1000&color=F8F8FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;See+you+again+%F0%9F%91%8B;Happy+Coding+%F0%9F%9A%80"/>
 
 <img src="https://komarev.com/ghpvc/?username=armin-panahi&style=for-the-badge&color=F7D774&label=PROFILE+VIEWS"/>
 
