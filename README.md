@@ -12,8 +12,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=50&text=About%20Me&fontSize=40&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
-<p style="color:F7D774;">
-  
 💻 Frontend Developer passionate about creating beautiful, responsive and scalable web applications.
 
 🐍 I also enjoy building backend services and automation using Python.
@@ -21,8 +19,6 @@
 🚀 Currently improving my React ecosystem knowledge while learning modern backend architecture.
 
 🎯 My goal is to become a Full Stack Engineer capable of building complete production-ready applications.
-
-</p>
 
 </div>
 
