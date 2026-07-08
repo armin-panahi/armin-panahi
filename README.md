@@ -25,8 +25,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&text=TECH%20STACK&fontSize=42&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=50&text=TECH%20STACK&fontSize=30&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Languages&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
