@@ -175,23 +175,41 @@ src="https://streak-stats.demolab.com?user=armin-panahi&theme=transparent&hide_b
 
 ---
 
-# 🤝 Connect With Me
+<div align="center">
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&text=CONNECT%20WITH%20ME&fontSize=38&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
+
+<br>
 
 <a href="https://github.com/armin-panahi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-F7D774?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
-<a href="mailto:amirhosseinpanahi.business@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-F7D774?style=for-the-badge&logo=linkedin&logoColor=000000"/>
 </a>
 
-<a href="https://linkedin.com/in/armin-panahi">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-F7D774?style=for-the-badge&logo=instagram&logoColor=000000"/>
 </a>
 
-</p>
+<a href="https://t.me/YOUR_TELEGRAM">
+<img src="https://img.shields.io/badge/Telegram-F7D774?style=for-the-badge&logo=telegram&logoColor=000000"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-F7D774?style=for-the-badge&logo=gmail&logoColor=000000"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO.com">
+<img src="https://img.shields.io/badge/Portfolio-F7D774?style=for-the-badge&logo=vercel&logoColor=000000"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=3500&pause=1000&color=F7D774&center=true&vCenter=true&width=650&lines=Let's+build+something+amazing+together+%F0%9F%9A%80;Open+for+Collaboration+%E2%9C%A8;Always+Happy+to+Connect+%F0%9F%A4%9D"/>
+
+</div>
 
 ---
 
