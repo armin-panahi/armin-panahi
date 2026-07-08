@@ -107,10 +107,6 @@ RESTful API built using Python.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=45&text=GITHUB%20ANALYTICS&fontSize=30&fontColor=F7D774&animation=fadeIn&color=0:0D1117,100:0D1117"/>
-
-<br>
-
 <div align="center">
 
 <img height="180em"
