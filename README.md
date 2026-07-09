@@ -76,21 +76,21 @@ src="https://streak-stats.demolab.com?user=armin-panahi&theme=transparent&hide_b
 <img src="https://capsule-render.vercel.app/api?type=waving&height=50&text=Achievements&fontSize=40&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
-  <img src="https://img.shields.io/badge/⚡_Fast_Learner-F7D774?style=for-the-badge&labelColor=111111&color=F7D774" />
-  <img src="https://img.shields.io/badge/💡_Creative_Developer-F7D774?style=for-the-badge&labelColor=111111&color=F7D774" />
-  <img src="https://img.shields.io/badge/🚀_Always_Building-F7D774?style=for-the-badge&labelColor=111111&color=F7D774" />
+  <img src="https://img.shields.io/badge/⚡_Fast_Learner-F7D774?style=for-the-badge&labelColor=111111&color=F8F8FF" />
+  <img src="https://img.shields.io/badge/💡_Creative_Developer-F7D774?style=for-the-badge&labelColor=111111&color=F8F8FF" />
+  <img src="https://img.shields.io/badge/🚀_Always_Building-F7D774?style=for-the-badge&labelColor=111111&color=F8F8FF" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/🎯_Problem_Solver-F7D774?style=for-the-badge&labelColor=111111&color=F7D774" />
-  <img src="https://img.shields.io/badge/🛠️_Full_Stack_Developer-F7D774?style=for-the-badge&labelColor=111111&color=F7D774" />
-  <img src="https://img.shields.io/badge/🔥_Open_to_Collaboration-F7D774?style=for-the-badge&labelColor=111111&color=F7D774" />
+  <img src="https://img.shields.io/badge/🎯_Problem_Solver-F7D774?style=for-the-badge&labelColor=111111&color=F8F8FF" />
+  <img src="https://img.shields.io/badge/🛠️_Full_Stack_Developer-F7D774?style=for-the-badge&labelColor=111111&color=F8F8FF" />
+  <img src="https://img.shields.io/badge/🔥_Open_to_Collaboration-F7D774?style=for-the-badge&labelColor=111111&color=F8F8FF" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/📚_Continuous_Learning-F7D774?style=for-the-badge&labelColor=111111&color=F7D774" />
-  <img src="https://img.shields.io/badge/🌟_Clean_Code-F7D774?style=for-the-badge&labelColor=111111&color=F7D774" />
-  <img src="https://img.shields.io/badge/🤝_Team_Player-F7D774?style=for-the-badge&labelColor=111111&color=F7D774" />
+  <img src="https://img.shields.io/badge/📚_Continuous_Learning-F7D774?style=for-the-badge&labelColor=111111&color=F8F8FF" />
+  <img src="https://img.shields.io/badge/🌟_Clean_Code-F7D774?style=for-the-badge&labelColor=111111&color=F8F8FF" />
+  <img src="https://img.shields.io/badge/🤝_Team_Player-F7D774?style=for-the-badge&labelColor=111111&color=F8F8FF" />
 </p>
 
 </div>
