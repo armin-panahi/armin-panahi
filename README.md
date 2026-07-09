@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&text=TECH%20STACK&fontSize=42&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&text=TECH%20STACK&fontSize=40&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Languages&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
@@ -73,7 +73,7 @@ src="https://streak-stats.demolab.com?user=armin-panahi&theme=transparent&hide_b
 
 <div align="center">
 
-# 🏆 Achievements
+<img src="https://capsule-render.vercel.app/api?type=waving&height=50&text=Achievements&fontSize=40&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
   <img src="https://img.shields.io/badge/⚡_Fast_Learner-F7D774?style=for-the-badge&labelColor=111111&color=F7D774" />
@@ -115,8 +115,6 @@ src="https://streak-stats.demolab.com?user=armin-panahi&theme=transparent&hide_b
 
 <br><br>
 
-<img src="https://img.shields.io/badge/KEEP%20BUILDING-D4AF37?style=for-the-badge&labelColor=0D1117&color=F7D774"/>
-
 </div>
 
 ---
@@ -130,6 +128,8 @@ src="https://streak-stats.demolab.com?user=armin-panahi&theme=transparent&hide_b
 <img src="https://raw.githubusercontent.com/armin-panahi/armin-panahi/output/github-contribution-grid-snake-dark.svg"/>
 
 <br>
+
+<img src="https://img.shields.io/badge/KEEP%20BUILDING-D4AF37?style=for-the-badge&labelColor=0D1117&color=F7D774"/>
 
 <img src="https://img.shields.io/badge/Every%20Square-A%20Step%20Forward-D4AF37?style=for-the-badge&labelColor=0D1117&color=F7D774"/>
 
@@ -183,7 +183,7 @@ src="https://streak-stats.demolab.com?user=armin-panahi&theme=transparent&hide_b
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&text=CONNECT%20WITH%20ME&fontSize=38&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&text=CONNECT%20WITH%20ME&fontSize=40&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <br>
 
