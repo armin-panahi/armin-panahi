@@ -104,13 +104,64 @@ src="https://streak-stats.demolab.com?user=armin-panahi&theme=transparent&hide_b
 </div>
 
 ---
+
 <div align="center">
 
-## 🐍 Contribution Snake
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=70&section=header&text=Contribution%20Snake&fontColor=F7D774&fontSize=35&animation=fadeIn"/>
 
-<img src="https://raw.githubusercontent.com/armin-panahi/armin-panahi/output/github-snake-dark.svg" width="100%"/>
+<br><br>
+
+<img src="https://raw.githubusercontent.com/armin-panahi/armin-panahi/output/github-contribution-grid-snake-dark.svg"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Every%20Square-A%20Step%20Forward-D4AF37?style=for-the-badge&labelColor=0D1117&color=F7D774"/>
 
 </div>
+
+---
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/Total%20Contributions-∞-F7D774?style=for-the-badge&labelColor=0D1117"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/Consistency-100%25-D4AF37?style=for-the-badge&labelColor=0D1117"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/Keep%20Building-🚀-F7D774?style=for-the-badge&labelColor=0D1117"/>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=4000&color=F7D774&center=true&vCenter=true&width=700&lines=Discipline+today.+Impact+tomorrow." />
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0D1117&section=footer"/>
 
 ---
 
