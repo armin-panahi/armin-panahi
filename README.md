@@ -167,17 +167,12 @@ src="https://streak-stats.demolab.com?user=armin-panahi&theme=transparent&hide_b
 
 </div>
 
----
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=4000&color=F7D774&center=true&vCenter=true&width=700&lines=Discipline+today.+Impact+tomorrow." />
 
 </div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0D1117&section=footer"/>
 
 ---
 
