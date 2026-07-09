@@ -139,6 +139,12 @@ src="https://streak-stats.demolab.com?user=armin-panahi&theme=transparent&hide_b
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=4000&color=F7D774&center=true&vCenter=true&width=700&lines=Discipline+today.+Impact+tomorrow." />
+
+</div>
+
+<div align="center">
+
 <table>
 
 <tr>
@@ -164,13 +170,6 @@ src="https://streak-stats.demolab.com?user=armin-panahi&theme=transparent&hide_b
 </tr>
 
 </table>
-
-</div>
-
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=4000&color=F7D774&center=true&vCenter=true&width=700&lines=Discipline+today.+Impact+tomorrow." />
 
 </div>
 
