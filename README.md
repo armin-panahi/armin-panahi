@@ -107,37 +107,6 @@ src="https://streak-stats.demolab.com?user=armin-panahi&theme=transparent&hide_b
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0D1117&text=Contribution%20Snake&fontColor=F7D774&fontSize=34&animation=fadeIn"/>
-
-<br><br>
-
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/armin-panahi/armin-panahi/output/github-contribution-grid-snake-dark.svg">
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/armin-panahi/armin-panahi/output/github-contribution-grid-snake.svg">
-
-<img
-alt="GitHub Contribution Snake"
-src="https://raw.githubusercontent.com/armin-panahi/armin-panahi/output/github-contribution-grid-snake-dark.svg"
-width="100%">
-
-</picture>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Every%20Commit%20Builds%20The%20Future-F7D774?style=for-the-badge&labelColor=0D1117&color=D4AF37"/>
-
-</div>
-
----
-
-<div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=70&section=header&text=Contribution%20Snake&fontColor=F7D774&fontSize=35&animation=fadeIn"/>
 
 <br><br>
@@ -149,6 +118,8 @@ width="100%">
 <img src="https://img.shields.io/badge/KEEP%20BUILDING-D4AF37?style=for-the-badge&labelColor=0D1117&color=F7D774"/>
 
 <img src="https://img.shields.io/badge/Every%20Square-A%20Step%20Forward-D4AF37?style=for-the-badge&labelColor=0D1117&color=F7D774"/>
+
+<br>
 
 <img src="https://img.shields.io/badge/Every%20Commit%20Builds%20The%20Future-F7D774?style=for-the-badge&labelColor=0D1117&color=D4AF37"/>
 
