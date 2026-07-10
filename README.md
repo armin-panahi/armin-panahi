@@ -107,16 +107,6 @@ src="https://streak-stats.demolab.com?user=armin-panahi&theme=transparent&hide_b
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/armin-panahi/armin-panahi/output/github-contribution-grid-snake-dark.svg"/>
-
-<br><br>
-
-</div>
-
----
-
-<div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0D1117&text=Contribution%20Snake&fontColor=F7D774&fontSize=34&animation=fadeIn"/>
 
 <br><br>
