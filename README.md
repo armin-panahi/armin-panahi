@@ -150,6 +150,8 @@ width="100%">
 
 <img src="https://img.shields.io/badge/Every%20Square-A%20Step%20Forward-D4AF37?style=for-the-badge&labelColor=0D1117&color=F7D774"/>
 
+<img src="https://img.shields.io/badge/Every%20Commit%20Builds%20The%20Future-F7D774?style=for-the-badge&labelColor=0D1117&color=D4AF37"/>
+
 </div>
 
 ---
