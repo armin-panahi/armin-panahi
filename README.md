@@ -107,7 +107,7 @@ src="https://streak-stats.demolab.com?user=armin-panahi&theme=transparent&hide_b
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=70&section=header&text=Contribution%20Snake&fontColor=F7D774&fontSize=35&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=50&text=Contribution%20Snake&fontSize=40&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <br><br>
 
@@ -117,7 +117,7 @@ src="https://streak-stats.demolab.com?user=armin-panahi&theme=transparent&hide_b
 
 <img src="https://img.shields.io/badge/KEEP%20BUILDING-D4AF37?style=for-the-badge&labelColor=0D1117&color=F7D774"/>
 
-<img src="https://img.shields.io/badge/Every%20Square-A%20Step%20Forward-D4AF37?style=for-the-badge&labelColor=0D1117&color=F7D774"/>
+<img src="https://img.shields.io/badge/Every%20Square-A%20Step%20Forward-D4AF37?style=for-the-badge&labelColor=0D1117&color=D4AF37"/>
 
 <br>
 
