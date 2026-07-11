@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=50&text=Hello,%20I'm%20ARMIN%20PANAHI&fontSize=40&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=F8F8FF&center=true&vCenter=true&random=false&width=700&lines=Computer+Engineer;Frontend+Developer;React+Developer;Python+Developer;Backend+Developer;Always+Learning+Something+New+..." />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=1000&color=F8F8FF&center=true&vCenter=true&random=false&width=700&lines=Computer+Engineer;Frontend+Developer;React+Developer;Python+Developer;Backend+Developer;Always+Learning+Something+New+..." />
 
 </div>
 
