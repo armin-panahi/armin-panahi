@@ -113,8 +113,9 @@ src="https://streak-stats.demolab.com?user=armin-panahi&theme=transparent&hide_b
 
 <br>
 
-<img src="https://img.shields.io/badge/KEEP%20BUILDING-D4AF37?style=for-the-badge&labelColor=F7D774&color=D4AF37"/>
+<img src="https://img.shields.io/badge/KEEP%20BUILDING-D4AF37?style=for-the-badge&labelColor=F7D774&color=F7D774"/>
 
+<img src="https://img.shields.io/badge/Every%20Square-D4AF37?style=for-the-badge&labelColor=F7D774&color=F7D774"/>
 <img src="https://img.shields.io/badge/Every%20Square-A%20Step%20Forward-D4AF37?style=for-the-badge&labelColor=F7D774&color=F7D774"/>
 
 <br>
