@@ -105,12 +105,6 @@ src="https://streak-stats.demolab.com?user=armin-panahi&theme=transparent&hide_b
 
 ---
 
-<p align="center">
-  <img src="./contribution-grid-gold.svg" alt="Contribution grid" width="700"/>
-</p>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=50&text=Contribution%20Snake&fontSize=40&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
