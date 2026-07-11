@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=50&text=Hello,%20I'm%20ARMIN%20PANAHI&fontSize=40&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=50&text=Hello,%20I'm%20ARMIN%20PANAHI&fontSize=50&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=1000&color=F8F8FF&center=true&vCenter=true&random=false&width=700&lines=Computer+Engineer;Frontend+Developer;React+Developer;Python+Developer;Backend+Developer;Always+Learning+Something+New+..." />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=F8F8FF&center=true&vCenter=true&random=false&width=700&lines=Computer+Engineer;Frontend+Developer;React+Developer;Python+Developer;Backend+Developer;Always+Learning+Something+New+..." />
 
 </div>
 
@@ -28,31 +28,31 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&text=TECH%20STACK&fontSize=40&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Languages&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=30&text=Languages&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,python,js,php" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Front-End&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=30&text=Front-End&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,next,vue,angular" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Back-End&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=30&text=Back-End&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
 <img src="https://skillicons.dev/icons?i=php,python,django,flask,fastapi,js,nodejs" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Database&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=30&text=Database&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,postgresql,sqlite,graphql" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Tools&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=30&text=Tools&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
 <img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,pycharm,figma,postman,npm,linux,docker" />
