@@ -43,7 +43,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Back-End&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,python,flask,fastapi,nodejs" />
+<img src="https://skillicons.dev/icons?i=php,python,django,flask,fastapi,nodejs" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=20&text=Database&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
