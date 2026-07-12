@@ -55,7 +55,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=35&text=Tools&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
-<img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,pycharm,figma,postman,npm,linux,docker" />
+<img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,pycharm,clion,webstorm,figma,postman,npm,linux,docker" />
 </p>
 
 </div>
