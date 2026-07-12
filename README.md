@@ -173,7 +173,7 @@ src="https://streak-stats.demolab.com?user=armin-panahi&theme=transparent&hide_b
 <img src="https://img.shields.io/badge/GitHub-F7D774?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
-<a href="https://www.linkedin.com/in/armin-panahi">
+<a href="https://www.linkedin.com/in/arminpanahi">
 <img src="https://img.shields.io/badge/LinkedIn-F7D774?style=for-the-badge&logo=linkedin&logoColor=000000"/>
 </a>
 
@@ -190,7 +190,7 @@ src="https://streak-stats.demolab.com?user=armin-panahi&theme=transparent&hide_b
 </a>
 
 <a href="https://arminpanahi.ir">
-<img src="https://img.shields.io/badge/Portfolio-F7D774?style=for-the-badge&logo=vercel&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Website-F7D774?style=for-the-badge&logo=vercel&logoColor=000000"/>
 </a>
 
 
