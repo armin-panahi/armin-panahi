@@ -109,7 +109,9 @@ src="https://streak-stats.demolab.com?user=armin-panahi&theme=transparent&hide_b
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=50&text=Contribution%20Snake&fontSize=40&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
-<img src="https://raw.githubusercontent.com/armin-panahi/armin-panahi/output/github-contribution-grid-snake-dark.svg"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/armin-panahi/armin-panahi/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 <br>
 
