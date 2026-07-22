@@ -4,10 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=F8F8FF&center=true&vCenter=true&random=false&width=700&lines=Computer+Engineer;Frontend+Developer;React+Developer;Python+Developer;Backend+Developer;Always+Learning+Something+New+..." />
 
-</div>
-
+</div> 
+    
 ---
-
+   
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=50&text=About%20Me&fontSize=40&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
