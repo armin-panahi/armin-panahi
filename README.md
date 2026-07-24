@@ -107,6 +107,21 @@ src="https://streak-stats.demolab.com?user=armin-panahi&theme=transparent&hide_b
 
 <div align="center">
 
+## My Contribution Graph
+
+<!-- [pacman] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[armin-panahi]/[armin-panahi]/output/[pacman]-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[armin-panahi]/[armin-panahi]/output/[pacman]-contribution-graph.svg">
+    <img alt="[pacman] contribution graph" src="https://raw.githubusercontent.com/[armin-panahi]/[armin-panahi]/output/[pacman]-contribution-graph.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=50&text=Contribution%20Snake&fontSize=40&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p align="center">
