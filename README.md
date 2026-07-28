@@ -111,7 +111,6 @@ src="https://streak-stats.demolab.com?user=armin-panahi&theme=transparent&hide_b
 
 <p align="center">
     <img width="100%" src="https://raw.githubusercontent.com/armin-panahi/armin-panahi/output/github-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/armin-panahi/armin-panahi/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 <br>
