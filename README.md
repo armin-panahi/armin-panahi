@@ -31,26 +31,26 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=35&text=Languages&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,python,js,php,kotlin" />
+<img src="https://skillicons.dev/icons?i=c,python,js" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=35&text=Front-End&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,next,vue,angular" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,next" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=35&text=Back-End&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=35&text=Back-End&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/> -->
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,python,django,flask,fastapi,js,nodejs" />
-</p>
+<!-- <p> -->
+<!-- <img src="https://skillicons.dev/icons?i=php,python,django,flask,fastapi,js,nodejs" /> -->
+<!-- </p> -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=35&text=Database&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=35&text=Database&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/> -->
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,postgresql,sqlite,graphql" />
-</p>
+<!-- <p> -->
+<!-- <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,postgresql,sqlite,graphql" /> -->
+<!-- </p> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=35&text=Tools&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
