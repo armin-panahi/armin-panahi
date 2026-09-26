@@ -28,12 +28,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=60&text=TECH%20STACK&fontSize=40&fontColor=F7D774&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=35&text=Languages&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,python,js" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=35&text=Front-End&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
