@@ -31,7 +31,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=35&text=Front-End&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,typescript,next,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,typescript,react,next,nuxt,nodejs" />
 </p>
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=35&text=Back-End&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/> -->
