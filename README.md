@@ -34,11 +34,11 @@
 <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,typescript,react,next,nuxt,redux,nodejs" />
 </p>
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=35&text=Back-End&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=35&text=Back-End&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/>
 
-<!-- <p> -->
-<!-- <img src="https://skillicons.dev/icons?i=php,python,django,flask,fastapi,js,nodejs" /> -->
-<!-- </p> -->
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs" />
+</p>
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=35&text=Database&fontSize=20&fontColor=F8F8FF&animation=twinkling&color=0:0D1117,100:0D1117"/> -->
 
